@@ -1,8 +1,5 @@
 - 👋Hi, I'm @hair-0, an undergraduate student in Tsinghua University at present.  
 - 👋Feel free to drop by my site and I'm looking forward to cooperate with you!
----
-<div style="margin-left: 2000px;">
-<img src="https://github-readme-stats.vercel.app/api?username=hair-0&hide_rank=true"/>
 <!--
 **hair-0/hair-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
