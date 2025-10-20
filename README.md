@@ -1,7 +1,4 @@
 ## 👋Hi, I'm @hair-0, an undergraduate student in Tsinghua University at present.
-## 👋Welcome to drop by my site to take a look.
-
-
 <!--
 **hair-0/hair-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
